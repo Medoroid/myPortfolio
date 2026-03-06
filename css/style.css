@@ -317,6 +317,10 @@ header button .tog-button span{
     background-color: #2D53E5;
     color: #ffffff;
 }
+.about:hover .skills .redux{
+    background-color: #764abc;
+    color: #ffffff;
+}
 @media screen and (max-width:992px) {
     .about .content{
         justify-content: center !important;
@@ -668,3 +672,4 @@ footer p{
 }
 /* footer */
 /* animation */
+
